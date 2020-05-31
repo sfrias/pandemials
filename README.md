@@ -1,4 +1,4 @@
-# pandemials
+# Pandemials
 
 Studying sewage for public health information is known as Wastewater-based epidemiology(WBE). We’re look at findings to stablish fast and better points for the sample collection without sewage system info.<BR>
 Wastewater has biomarkers that indicate the health of the entire community, that was also proved with other diseases, as poliovirus.<BR>
