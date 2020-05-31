@@ -26,16 +26,17 @@ QGIS or SNAP use to represent measures and variations. Generate alerts or warnin
   
   
 References: List the data and resources used in your project:<BR>
-https://www.scdhec.gov/environment/environmental-data-maps-reports/gis-apps-data
-https://arset.gsfc.nasa.gov/water/webinars/VIC18
-https://arset.gsfc.nasa.gov/water/webinars/drought17
-https://datasetsearch.research.google.com/
-ftp://e0srp01u.ecs.nasa.gov/srtm/version2/SRTM3/
-http://srtm.csi.cgiar.org/wp-content/uploads/files/250m/
-https://cgiarcsi.community/2017/11/20/mapping-the-rise-of-wastewater-irrigated-urban-peri-urban-agriculture-in-india/
-http://www.esa-sen2agri.org/
-http://www.naturalearthdata.com/downloads/
-Fragments from Planet Team (2018). Planet Application Program Interface: In Space for Life on Earth. San Francisco, CA. https://api.planet.com
+https://land.copernicus.eu<BR>
+https://www.scdhec.gov/environment/environmental-data-maps-reports/gis-apps-data<BR>
+https://arset.gsfc.nasa.gov/water/webinars/VIC18<BR>
+https://arset.gsfc.nasa.gov/water/webinars/drought17<BR>
+https://datasetsearch.research.google.com/<BR>
+ftp://e0srp01u.ecs.nasa.gov/srtm/version2/SRTM3/<BR>
+http://srtm.csi.cgiar.org/wp-content/uploads/files/250m/<BR>
+https://cgiarcsi.community/2017/11/20/mapping-the-rise-of-wastewater-irrigated-urban-peri-urban-agriculture-in-india/<BR>
+http://www.esa-sen2agri.org/<BR>
+http://www.naturalearthdata.com/downloads/<BR>
+Fragments from Planet Team (2018). Planet Application Program Interface: In Space for Life on Earth. San Francisco, CA. https://api.planet.com<BR>
 (3) Four researchers from the Water Research Institute in the Netherlands (KWR Water Research Institute) discussed this subject and examined the samples of wastewater collected from 7 different cities. In the sample test with the RT-PCR protocol, the researchers tested 3 fragments (N-1,2,3) of the "nucleocapsid" protein gene and a fragment (E) of the "envelope" protein gene. The first samples were taken on February 6, 3 weeks before the first Covid-19 case reported in the Netherlands. No trailer was detected. In the samples taken later on March 5, the N1 trailer was detected in 5 cities. In the samples taken on March 15, the N1 trailer showed positive results in 6 cities, while the N3 and E fragments in 5 cities. Thus, the detection of the virus was reported for the first time with sewage waste water. Same for Conneticut Research, and Paris processing wartewater samples previously stored at 4ºC.<BR>
 Papers:<BR>
 (0) Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with  Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The  Netherlands.Gertjan Medema, Leo Heijnen, Goffe Elsinga, Ronald Italiaander, and Anke Brouwer.Environmental Science & Technology Letters. DOI: 10.1021/acs.estlett.0c00357<BR>
