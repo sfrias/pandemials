@@ -22,3 +22,25 @@ How We Developed This Project<BR>
 +  Application of TWI and NWDI to mark downstream and topographic radar to mark watersheds. Also we can try SWIR and false color images.<BR>
 +  Integrate GiS to mark sample points, data sampled, alerts and warnings.<BR>
 QGIS or SNAP use to represent measures and variations. Generate alerts or warnings when we're out of threshold would be nice.
+  
+  
+  
+References: List the data and resources used in your project:<BR>
+https://www.scdhec.gov/environment/environmental-data-maps-reports/gis-apps-data
+https://arset.gsfc.nasa.gov/water/webinars/VIC18
+https://arset.gsfc.nasa.gov/water/webinars/drought17
+https://datasetsearch.research.google.com/
+ftp://e0srp01u.ecs.nasa.gov/srtm/version2/SRTM3/
+http://srtm.csi.cgiar.org/wp-content/uploads/files/250m/
+https://cgiarcsi.community/2017/11/20/mapping-the-rise-of-wastewater-irrigated-urban-peri-urban-agriculture-in-india/
+http://www.esa-sen2agri.org/
+http://www.naturalearthdata.com/downloads/
+Fragments from Planet Team (2018). Planet Application Program Interface: In Space for Life on Earth. San Francisco, CA. https://api.planet.com
+(3) Four researchers from the Water Research Institute in the Netherlands (KWR Water Research Institute) discussed this subject and examined the samples of wastewater collected from 7 different cities. In the sample test with the RT-PCR protocol, the researchers tested 3 fragments (N-1,2,3) of the "nucleocapsid" protein gene and a fragment (E) of the "envelope" protein gene. The first samples were taken on February 6, 3 weeks before the first Covid-19 case reported in the Netherlands. No trailer was detected. In the samples taken later on March 5, the N1 trailer was detected in 5 cities. In the samples taken on March 15, the N1 trailer showed positive results in 6 cities, while the N3 and E fragments in 5 cities. Thus, the detection of the virus was reported for the first time with sewage waste water. Same for Conneticut Research, and Paris processing wartewater samples previously stored at 4ºC.<BR>
+Papers:<BR>
+(0) Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with  Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The  Netherlands.Gertjan Medema, Leo Heijnen, Goffe Elsinga, Ronald Italiaander, and Anke Brouwer.Environmental Science & Technology Letters. DOI: 10.1021/acs.estlett.0c00357<BR>
+(1) Presence of SARS-Coronavirus-2 in sewage. Gertjan Medema, Leo Heijnen, Goffe Elsinga, Ronald Italiaander, Anke Brouwer  doi: https://doi.org/10.1101/2020.03.29.20045880 <BR>
+(2) SARS-CoV-2 titers in wastewater are higher than expected from clinically confirmed cases. Fuqing Wu, Amy Xiao, Jianbo Zhang, Xiaoqiong Gu, Wei Lin Lee, Kathryn Kauffman, William Hanage, Mariana Matus, Newsha Ghaeli, Noriko Endo, Claire Duvallet, Katya Moniz, Timothy Erickson, Peter Chai, Janelle Thompson, Eric Alm. doi: https://doi.org/10.1101/2020.04.05.20051540 <BR>
+(4)Evaluation of lockdown impact on SARS-CoV-2 dynamics through viral genome quantification in Paris wastewaters. Sebastien Wurtzer, Vincent Marechal, Jean-Marie Mouchel, Yvon Maday, Remy Teyssou, Elise Richard, Jean Luc Almayrac,Laurent Moulin ORCID Profile  doi: https://doi.org/10.1101/2020.04.12.20062679<BR>
+Add some tags so we can categorize your project<BR>
+#covid_19 #space4good #sewage4covid # #fastresponse #spaceapps
